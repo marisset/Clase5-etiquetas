@@ -1,0 +1,20 @@
+body{
+    background-color:cornflowerblue;
+    font-family:Verdana, Tahoma, sans-serif;
+    
+}
+header, img{
+    margin-top: 30px;
+    margin-left: 3rem;
+}
+
+main{
+    color: brown;
+    width: 35rem;
+    margin-left: 21rem;
+    text-align:justify; 
+}
+
+h1, h2{
+    text-align: center;
+}
